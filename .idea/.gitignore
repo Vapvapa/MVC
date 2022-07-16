@@ -7,9 +7,4 @@
 /dataSources/
 /dataSources.local.xml
 # Intellij
-.idea
-out
-target
-*.iml
-log
-*.patch
+out/
