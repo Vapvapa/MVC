@@ -1,6 +1,5 @@
 package ru.varvara;
 
-
 import ru.varvara.controller.Controller;
 import ru.varvara.model.MainModel;
 import ru.varvara.model.Model;
